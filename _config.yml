@@ -124,8 +124,8 @@ analytics:
 author:
   name             : "Robert McDonough"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Eugene, oregon"
+  bio              : "PhD Student"
+  location         : "University of Oregon"
   email            : "rmcdono2@uoregon.edu"
   links:
     - label: "Email"
