@@ -5,14 +5,14 @@ title: Research
 permalink: /research/
 ---
 
-```{css style settings, echo = FALSE}
-blockquote {
-    padding: 10px 20px;
-    margin: 0 0 20px;
-    font-size: 8px;
-    border-left: 5px solid #eee;
-}
-```
+# ```{css style settings, echo = FALSE}
+# blockquote {
+#     padding: 10px 20px;
+#     margin: 0 0 20px;
+#     font-size: 8px;
+#     border-left: 5px solid #eee;
+# }
+# ```
 
 
 ## Working Papers
