@@ -13,18 +13,19 @@ Included below are graphical summaries of my teaching evaluations, followed by s
 
 ### EC 201: Introduction to Economic Analysis: Microeconomics
 <font size="4"><p>
-The objective of this course is to provide a foundation in economic thinking and analysis--- the ``apparatus of the mind'' described by Keynes. To build this foundation, students will consider the classic subjects of economic analysis: consumers, firms, and their interactions. At the end of this course students should have an understanding of economic fundamentals, such as marginal thinking and supply and demand analysis. Just as importantly, I strive to have students leave this course with an understanding of how economic thinking can help them personally, even if this is the only economics course they take. 
+This course provides a foundation in economic thinking and analysis--- the ``apparatus of the mind'' described by Keynes. To build this foundation, students consider classic subjects of economic analysis: consumers, firms, and their interactions. Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis. As this course can be used to satisfy the University's social science requirement, I strive to leave students with an understanding of how economic thinking can help them personally.
 </p></font>
+
 ### EC 350: Labor Market Issues
 <font size="4"><p>
-This course introduces students to the economic theory surrounding labor markets and labor market issues. Starting from the fundamentals developed in EC 201, students will explore theories of wage determination, human capital development, unemployment, and labor market discrimination, among others. These theories are presented alongside key historical developments in the U.S. labor market, as well as the empirical work economists have done to test the theories being considered. 
+EC 350 introduces students to the economic theory surrounding labor markets and labor market issues. We start by considering utility and profit maximization in depth, in order to derive a notion of labor supply, demand, and wage determination. Students then explore theories of human capital development, unemployment, and labor market discrimination, among others. These theories are presented alongside key historical developments in the U.S. labor market. Students should leave this course with an ability to analyze labor market developments and phenomena, and communicate their thinking coherently using an economic vocabulary.
 </p></font>
 
 
 ### EC 450: Labor Economics
 
 <font size="4"><p>
-
+This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail.Students will consider such concepts as wage determination in imperfect markets, a signalling model for higher education, and hedonic wage theory, among others. These theories are presented alongside key historical developments in the U.S. labor market. Recent applied research is also discussed where appropriate.
 </p></font>
 #### Selected Comments
 <font size="2"><p>
