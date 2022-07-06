@@ -25,7 +25,7 @@ EC 350 introduces students to the economic theory surrounding labor markets and 
 ### EC 450: Labor Economics
 
 <font size="4"><p>
-This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail.Students will consider such concepts as wage determination in imperfect markets, a signalling model for higher education, and hedonic wage theory, among others. These theories are presented alongside key historical developments in the U.S. labor market. Recent applied research is also discussed where appropriate.
+This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail. Students will consider such concepts as wage determination in imperfect markets, the life cycle hypothesis, and the signalling model for higher education, among others. Historical developments in the U.S. labor market and recent applied research in labor economics are also both discussed where appropriate.
 </p></font>
 #### Selected Comments
 <font size="2"><p>
