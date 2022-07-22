@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+author_profile: false
 title: Teaching
 permalink: /teaching/
 ---
