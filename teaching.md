@@ -9,6 +9,9 @@ I have taught five courses at the University of Oregon as the instructor of reco
 \\
 Included below are graphical summaries of my teaching evaluations, followed by syllabi, course descriptions, and selected student comments. Please note that quantitative teaching evaluations are no longer used at the University of Oregon as of Fall 2019, and have been replaced with more qualitative evaluations. For a report of all of my course evaluations, please click here.
 
+
+<iframe height="400" width="100%" frameborder="no" src="https://robert-mcdonough.shinyapps.io/eval_viz/"> </iframe>
+
 ## As instructor of record:
 
 ### EC 201: Introduction to Economic Analysis: Microeconomics
