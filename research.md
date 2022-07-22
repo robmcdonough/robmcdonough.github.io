@@ -9,7 +9,7 @@ permalink: /research/
 ## Working Papers
 
 Mean Convergence, Combinatorics, and Grade-Point Averages (with [Glen Waddell](http://www.glenwaddell.com/))\\
-Reject and Resubmit: *Journal of Human Resources*\\
+Reject and Resubmit: **Journal of Human Resources**\\
 [IZA Discussion Paper \# 15414](https://docs.iza.org/dp15414.pdf)
 <font size="4"><p>
 While comparing students across large differences in GPA follows one's intuition that higher GPAs correlate positively with higher-performing students, this need not be the case locally. Grade-point averaging is fundamentally a combinatorics problem, and thereby challenges inference based on local comparisons—this is especially true when students have experienced only small numbers of classes. While the effect of combinatorics diminishes in larger numbers of classes, mean convergence then has us jeopardize local comparability as GPA better delineates students of different ability. Given these two characteristics in decoding GPA, we discuss the advantages of machine-learning approaches to identifying treatment in educational settings.
