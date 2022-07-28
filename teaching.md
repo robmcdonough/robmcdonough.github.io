@@ -33,12 +33,16 @@ EC 350 introduces students to the economic theory surrounding labor markets and 
 [Syllabus](https://robmcdonough.com/files/EC350_Summer2020.pdf)\\
 This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail. Students will learn models to explain wage determination in imperfect markets, the joint labor supply decisions of the household, and the signalling hypothesis in higher education, among others. Historical developments in the U.S. labor market and recent applied research in labor economics are also both discussed where appropriate. 
 </p></font>
-#### Selected Comments
+
+#### Selected Student Comments
+<font size="2"><p>
+*Note: like any selected sample, these comments should provoke the reader to consider the potential for--- and likely sign of--- bias. The potential for such bias is transparent here. Nevertheless, I have selected these comments because I believe that clarify the reasons for the positive teaching reviews I have received from most of my students.*
+</p></font>
 <font size="2"><p>
 "He creates an environment that I am excited to learn in." (EC 201- Fall 2021)
 </p></font>
 <font size="2"><p>
-"At the beginning of the term I was nervous for this course because of my previous bad experience in my high school macroeconomics class, but I truly enjoyed this class. He was always super helpful in answering questions, teaching material, and supporting his students. The material was challenging enough to keep me interested, but not overwhelmingly hard. I also like how the material matched what I discussed in other classes and was applicable to my daily life. He truly wants everyone to understand and do well which is amazing!" (EC 201- Fall 2021)
+"The material was challenging enough to keep me interested, but not overwhelmingly hard. I also like how the material matched what I discussed in other classes and was applicable to my daily life. He truly wants everyone to understand and do well which is amazing!" (EC 201- Fall 2021)
 </p></font>
 <font size="2"><p>
 "I loved this class and that is all due to Professor McDonough. I was actually engaged the whole time and wanted to learn because he is so great at making lectures engaging and exciting." (EC 350- Fall 2020 online)
