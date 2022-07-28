@@ -16,26 +16,26 @@ Included below are graphical summaries of my teaching evaluations, followed by s
 ## As instructor of record:
 
 ### EC 201: Introduction to Economic Analysis: Microeconomics
-[Syllabus](https://robmcdonough.com/files/EC201_Fall2021.pdf)\\
+[Syllabus](https://robmcdonough.com/files/EC201_Fall2021.pdf)
 <font size="4"><p>
 This course provides a foundation in economic thinking and analysis--- the ``apparatus of the mind'' described by Keynes. To build this foundation, students consider classic subjects of economic analysis: consumers, firms, and their interactions. Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis. As this course can be used to satisfy the University's social science requirement for most students, I strive to leave students with an understanding of how economic thinking can help them personally.
 </p></font>
 
 ### EC 350: Labor Market Issues
-[Syllabus](https://robmcdonough.com/files/EC350_Spring2022.pdf)\\
+[Syllabus](https://robmcdonough.com/files/EC350_Spring2022.pdf)
 <font size="4"><p>
 EC 350 introduces students to the economic theory surrounding labor markets and labor market issues. We first consider utility and profit maximization in depth, in order to derive models of labor supply, demand, and wage determination. Students then explore theories of human capital development, unemployment, and labor market discrimination, among others. These theories are presented alongside key historical developments in the U.S. labor market. Students taking EC 350 are beginning to develop a more comprehensive economic framework with which to analyze issues. I structure this course so that students have opportunity to both hone that analytic ability on more in-depth problems, and learn to communicate their thinking coherently.
 </p></font>
 
 
 ### EC 450: Labor Economics
-[Syllabus](https://robmcdonough.com/files/EC350_Summer2020.pdf)\\
+[Syllabus](https://robmcdonough.com/files/EC350_Summer2020.pdf)
 <font size="4"><p>
 This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail. Students will learn models to explain wage determination in imperfect markets, the joint labor supply decisions of the household, and the signalling hypothesis in higher education, among others. Historical developments in the U.S. labor market and recent applied research in labor economics are also both discussed where appropriate. 
 </p></font>
 
 #### Selected Student Comments
-*Note: like any selected sample, these comments should provoke the reader to consider the potential for--- and likely sign of--- bias. The potential for such bias is transparent here. Nevertheless, I have selected these comments because I believe that clarify the reasons for the positive teaching reviews I have received from most of my students.*
+*Note: like any selected sample, these comments should provoke the reader to consider the potential for--- and likely sign of--- bias. The potential for such bias is transparent here. Nevertheless, I have selected these comments because I believe that they clarify the reasons for the positive teaching reviews I have received from most of my students.*
 <font size="2"><p>
 </p></font>
 <font size="2"><p>
