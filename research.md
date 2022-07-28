@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Working Papers
 
-<font size="8">Mean Convergence, Combinatorics, and Grade-Point Averages</font> (with [Glen Waddell](http://www.glenwaddell.com/))\\
+<font size="5">Mean Convergence, Combinatorics, and Grade-Point Averages</font> (with [Glen Waddell](http://www.glenwaddell.com/))\\
 Reject and Resubmit: **Journal of Human Resources**\\
 [IZA Discussion Paper \# 15414](https://docs.iza.org/dp15414.pdf)
 <font size="4"><p>
@@ -16,7 +16,7 @@ While comparing students across large differences in GPA follows one's intuition
 </p></font>
 
 
-Social Transfers and Spatial Distortions (with [Mark Colas](https://sites.google.com/site/markyaucolas/home))\\
+<font size="5">Social Transfers and Spatial Distortions</font> (with [Mark Colas](https://sites.google.com/site/markyaucolas/home))\\
 Revise and Resubmit: **Journal of Labor Economics**\\
 [OIG Working Paper \# 54](https://www.minneapolisfed.org/research/institute-working-papers/social-transfers-and-spatial-distortions)
 <font size="4"><p>
