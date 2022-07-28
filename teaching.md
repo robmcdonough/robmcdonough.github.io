@@ -11,7 +11,7 @@ I have taught five courses at the University of Oregon as the instructor of reco
 Included below are graphical summaries of my teaching evaluations, followed by syllabi and coure details. Note that quantitative teaching evaluations are no longer used at the University of Oregon, and have been replaced with qualitative evaluations. For a report of all of my course evaluations, please click here.
 
 
-<iframe height="450" width="100%" frameborder="no" src="https://robert-mcdonough.shinyapps.io/eval_viz/"> </iframe>
+<iframe height="400" width="100%" frameborder="no" src="https://robert-mcdonough.shinyapps.io/eval_viz/"> </iframe>
 
 ## As instructor of record:
 
