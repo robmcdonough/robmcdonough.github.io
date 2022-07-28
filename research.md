@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Working Papers
 
-Mean Convergence, Combinatorics, and Grade-Point Averages (with [Glen Waddell](http://www.glenwaddell.com/))\\
+<u> Mean Convergence, Combinatorics, and Grade-Point Averages</u> (with [Glen Waddell](http://www.glenwaddell.com/))\\
 Reject and Resubmit: **Journal of Human Resources**\\
 [IZA Discussion Paper \# 15414](https://docs.iza.org/dp15414.pdf)
 <font size="4"><p>
