@@ -34,7 +34,7 @@ EC 350 introduces students to the economic theory surrounding labor markets and 
 This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail. Students will learn models to explain wage determination in imperfect markets, the joint labor supply decisions of the household, and the signalling hypothesis in higher education, among others. Historical developments in the U.S. labor market and recent applied research in labor economics are also both discussed where appropriate. 
 </p></font>
 
-#### Selected Student Comments
+## Selected Student Comments
 *Note: like any selected sample, these comments should provoke the reader to consider the potential for--- and likely sign of--- bias. The potential for such bias is transparent here. Nevertheless, I have selected these comments because I believe that they clarify the reasons for the positive teaching reviews I have received from most of my students.*
 <font size="2"><p>
 </p></font>
