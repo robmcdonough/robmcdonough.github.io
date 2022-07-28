@@ -8,10 +8,10 @@ permalink: /teaching/
 
 I have taught five courses at the University of Oregon as the instructor of record ---in introductory microeconomics, and labor economics. I received the 2022 Economics Department Graduate Employee Teaching Award. I have taught courses ranging in size from 20 to 70 students and managed teaching assistants. I was also the teaching assistant for the first year PhD microeconomics sequence, and for two undergraduate courses. \\
 \\
-Included below are graphical summaries of my teaching evaluations, followed by syllabi, course descriptions, and selected student comments. Please note that quantitative teaching evaluations are no longer used at the University of Oregon as of Fall 2019, and have been replaced with more qualitative evaluations. For a report of all of my course evaluations, please click here.
+Included below are graphical summaries of my teaching evaluations, followed by syllabi and coure details. Note that quantitative teaching evaluations are no longer used at the University of Oregon, and have been replaced with qualitative evaluations. For a report of all of my course evaluations, please click here.
 
 
-<iframe height="500" width="100%" frameborder="no" src="https://robert-mcdonough.shinyapps.io/eval_viz/"> </iframe>
+<iframe height="450" width="100%" frameborder="no" src="https://robert-mcdonough.shinyapps.io/eval_viz/"> </iframe>
 
 ## As instructor of record:
 
