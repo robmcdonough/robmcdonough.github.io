@@ -17,6 +17,7 @@ Included below are graphical summaries of my teaching evaluations, followed by s
 
 ### EC 201: Introduction to Economic Analysis: Microeconomics
 <font size="4"><p>
+[IZA Discussion Paper \# 15414](https://docs.iza.org/dp15414.pdf)
 This course provides a foundation in economic thinking and analysis--- the ``apparatus of the mind'' described by Keynes. To build this foundation, students consider classic subjects of economic analysis: consumers, firms, and their interactions. Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis. As this course can be used to satisfy the University's social science requirement for most students, I strive to leave students with an understanding of how economic thinking can help them personally.
 </p></font>
 
