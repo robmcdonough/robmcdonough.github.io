@@ -5,7 +5,7 @@ title:
 author_profile: true
 permalink: /
 ---
-I am an applied microeconometrician with broad interests in labor, education, and crime. I use quasi-experimental and structural methods to identify causal relationships that are valuable to policymakers and the public. My most recent work examines the impact of violent video game releases on US crime patterns. I teach undergraduate courses in microeconomics and labor economics. I received my PhD from the University of Oregon in 2023
+I am a teaching assistant professor at the University of North Carolina at Chapel Hill. I am an applied microeconometrician with broad research interests in labor, education, and crime. I use quasi-experimental and structural methods to identify causal relationships that are valuable to policymakers and the public. I teach undergraduate courses in introductory economics, microeconomics, and labor economics. I received my PhD from the University of Oregon in 2023
 
 ## Recent Work
 [The Effect of Violent Video Games on Violent Crime](https://robmcdonough.com/files/McDonough_Videogames-violence_CURRENT.pdf)
