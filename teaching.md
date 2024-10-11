@@ -6,7 +6,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I primarily teach Introduction to Economics (ECON 101), the Economics of Entrepreneurship and Innovation (ECON 111), and Labor Economics (ECON 480). Prior to that, I taught courses in introductory microeconomics and labor economics at the University of Oregon. I received the 2022 Economics Department Graduate Employee Teaching Award. I have taught courses ranging in size from 20 to 70 students and managed teaching assistants. I was also the TA for the first year PhD microeconomics sequence, and for two undergraduate courses. \\
+At UNC I teach large capacity sections of Introduction to Economics (ECON 101). I also teach the Economics of Entrepreneurship and Innovation (ECON 111) within the [Shuford Program in Entrepreneurship](https://shuford.unc.edu/), as well as upper level electives in Labor Economics (ECON 480). 
+
+While at the University of Oregon, I taught courses in introductory microeconomics and labor economics. I received the 2022 Economics Department Graduate Employee Teaching Award. 
+
+I have taught courses ranging in size from 20 to 400 students, and have managed teams of up to 30 undergraduate and graduate TAs. \\
 \\
 Included below are graphical summaries of my teaching evaluations, followed by syllabi and course descriptions. Note that quantitative teaching evaluations are no longer used at the University of Oregon, and have been replaced with qualitative evaluations. For a report of all of my course evaluations, please click [here](https://robmcdonough.com/files/reviews_combined.pdf).
 
@@ -41,10 +45,30 @@ This course uses the skills that students have developed in their microeconomic 
 ## Selected Student Comments
 *Note: like any selected sample, these comments should provoke the reader to consider the potential for--- and likely sign of--- bias. The potential for such bias is transparent here. Nevertheless, I have selected these comments because I believe that they clarify the reasons for the positive teaching reviews I have received from most of my students.*
 <font size="2"><p>
+"He was a very engaging professor and his lectures were enthusiastic and exciting. The textbook readings and followup questions were very helpful. His policies of asking
+questions as we left "Ticket Out the Door" and being very easy to reach made it so easy to ask questions and get help." (ECON 101- Spring 2024)
 </p></font>
+
 <font size="2"><p>
-"He is funny and approachable, which makes his class feel laid back and incredibly welcoming. He creates an environment that I am excited to learn in." (EC 201- Fall 2021)
+"Professor McDonough made a sometimes confusing subject matter incredibly approachable and engaging. Always willing to answer any questions and conceded when he did
+not have an answer. He is someone who is passionate about teaching and the subject matter he is teaching." (ECON 101- Spring 2024)
 </p></font>
+
+<font size="2"><p>
+"He was very engaging, getting students to participate in several interactive activities. It helped me remember a lot of the concepts and kept me paying attention in class." (ECON 101- Spring 2024)
+</p></font>
+
+<font size="2"><p>
+"Professor McDonough was a great professor that exposed the class to many important parts of microeconomics that applied to entrpreneurship. I was consistently engaged in
+his class and he did a great job of teaching the course in an organzied manner. Learning about economics through real case studies of businesses was very interesting and
+helpful for understanding economic concepts. McDonough was also always willing to answer questions no matter what point in the lecture we were at." (ECON 111- Spring 2024)
+</p></font>
+
+<font size="2"><p>
+"Robert was always happy to help me with any questions I had about course material. He was accommodating and structured the course in a way that made me understand econ
+more than I ever have at UNC! I cannot express how grateful I am to have had Robert this past semester, he was such a great teacher/professor." (ECON 480- Fall 2023)
+</p></font>
+
 <font size="2"><p>
 "The material was challenging enough to keep me interested, but not overwhelmingly hard. I also like how the material matched what I discussed in other classes and was applicable to my daily life. He truly wants everyone to understand and do well which is amazing!" (EC 201- Fall 2021)
 </p></font>
@@ -52,12 +76,8 @@ This course uses the skills that students have developed in their microeconomic 
 "I loved this class and that is all due to Professor McDonough. I was actually engaged the whole time and wanted to learn because he is so great at making lectures engaging and exciting." (EC 350- Fall 2020 online)
 </p></font>
 <font size="2"><p>
-"Robert is the best instructor I have had at UO, even more so than my professors. Extremely engaging, animated, knowledgeable.
-Robert also writes very fair tests. Nothing bad to say about this class. Honestly Perfect.
-" (EC 350- Spring 2022)
+"Robert is the best instructor I have had at UO, even more so than my professors. Extremely engaging, animated, knowledgeable." (EC 350- Spring 2022)
 </p></font>
-<font size="2"><p>
-"The instructor does a great job of explaining the intuition and relevancy of each topic so I have a better overall understanding of the material and why it’s important" (EC 350- Spring 2022 online)
-</p></font>
+
 
 .
