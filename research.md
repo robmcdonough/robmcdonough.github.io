@@ -18,10 +18,10 @@ US social transfer programs vary substantially across states, incentivizing hous
 
 ## Working Papers
 
-[Workplace Injury and Labor Supply within an Organization] (with [Jacob Kohlhepp](https://www.jkohlhepp.com/))\\
+[Workplace Injury and Labor Supply within an Organization] (with [Jacob Kohlhepp](https://www.jkohlhepp.com)) \\
 
 <font size="4"><p>
-\In this paper, we study how voluntary labor supply decisions within an organization impact workplace injury using novel data on the payroll and workers’ compensation claims of Los Angeles traffic officers.
+In this paper, we study how voluntary labor supply decisions within an organization impact workplace injury using novel data on the payroll and workers’ compensation claims of Los Angeles traffic officers.
 </p></font>
 
 [The Effect of Violent Video Games on Violent Crime](https://robmcdonough.com/files/McDonough_Videogames-violence_CURRENT.pdf)

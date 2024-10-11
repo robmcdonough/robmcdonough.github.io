@@ -6,11 +6,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
-At UNC I teach large capacity sections of Introduction to Economics (ECON 101). I also teach the Economics of Entrepreneurship and Innovation (ECON 111) within the [Shuford Program in Entrepreneurship](https://shuford.unc.edu/), as well as upper level electives in Labor Economics (ECON 480). 
+At UNC I teach large capacity sections of Introduction to Economics (ECON 101). I also teach the Economics of Entrepreneurship and Innovation (ECON 111) within the [Shuford Program in Entrepreneurship](https://shuford.unc.edu/), as well as electives in Labor Economics (ECON 480). 
 
 While at the University of Oregon, I taught courses in introductory microeconomics and labor economics. I received the 2022 Economics Department Graduate Employee Teaching Award. 
 
-I have taught courses ranging in size from 20 to 400 students, and have managed teams of up to 30 undergraduate and graduate TAs. \\
+I have taught courses ranging in size from 20 to 400 students and have managed teams of up to 30 undergraduate and graduate TAs. \\
 \\
 Included below are graphical summaries of my teaching evaluations, followed by syllabi and course descriptions. Note that quantitative teaching evaluations are no longer used at the University of Oregon, and have been replaced with qualitative evaluations. For a report of all of my course evaluations, please click [here](https://robmcdonough.com/files/reviews_combined.pdf).
 
@@ -19,23 +19,31 @@ Included below are graphical summaries of my teaching evaluations, followed by s
 
 # Courses:
 
-##University of North Carolina- Chapel Hill
+## University of North Carolina- Chapel Hill
 
-## ECON 101: Introduction to Economic Analysis: Microeconomics
+### ECON 101: Introduction to Economic Analysis: Microeconomics
 
 *Fall 2024*
 [Syllabus](https://robmcdonough.com/files/ECON101_f24.pdf)
 <font size="4"><p>
-The goal of this course is to show students how to think like an economist. Through a study of micro and macro economics, students develop the tools of economic reasoning Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis, as well as a foundational understanding of the macroeconomic definitions and forces that drive whole economies. As this course can be used to satisfy the University's general education requirement for “Ways of Knowing”, I strive to leave students with an understanding of how economic thinking can help them personally and with enough economic literacy to understand national conversations about the economy for themselves.
+The goal of this course is to show students how to think like an economist. Through a study of micro and macro economics, students develop the tools of economic reasoning—the "apparatus of the mind'' described by Keynes. To build this ability, students consider classic subjects of economic analysis: consumers, firms, and their interactions. Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis, as well as a foundational understanding of the macroeconomic definitions and forces that drive whole economies. As this course can be used to satisfy the University's general education requirement for “Ways of Knowing”, I strive to leave students with an understanding of how economic thinking can help them personally and with enough economic literacy to understand national conversations about the economy for themselves.
 </p></font>
 
-##University of Oregon
+### ECON 111: The Economics of Innovation and Entrepreneurship
+
+*Fall 2024*
+[Syllabus](https://robmcdonough.com/files/ECON111_f24.pdf)
+<font size="4"><p>
+Entrepreneurs need a toolbox to succeed, and economic reasoning is a powerful tool for the motivated entrepreneur. In this course, we focus on fundamental economic subjects (E.g., cost-benefit analysis, the theory of the firm, strategic interaction, risk and uncertainty) in the context of the entrepreneurial mindset. Entrepreneurs also learn better by practicing their skills. To that end, this is a case-based course, focusing on entrepreneurs and businesses who did (or unfortunately did not) use economic principles to create transformational disruptions to existing businesses and markets. By studying choices made by Lyft, Netflix, Partners in Health, Adidas, Tesla, and AIG, students should learn to identify the economic principles that businesses can exploit to create success.
+</p></font>
+
+## University of Oregon
 
 ### EC 201: Introduction to Economic Analysis: Microeconomics
 *Fall 2021*
 [Syllabus](https://robmcdonough.com/files/EC201_Fall2021.pdf)
 <font size="4"><p>
-This course provides a foundation in economic thinking and analysis—the "apparatus of the mind'' described by Keynes. To build this foundation, students consider classic subjects of economic analysis: consumers, firms, and their interactions. Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis. As this course can be used to satisfy the University's social science requirement for most students, I strive to leave students with an understanding of how economic thinking can help them personally.
+This course provides a foundation in economic thinking and analysis. Students consider classic subjects of economic analysis: consumers, firms, and their interactions. Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis. As this course can be used to satisfy the University's social science requirement for most students, I strive to leave students with an understanding of how economic thinking can help them personally.
 </p></font>
 
 ### EC 350: Labor Market Issues
