@@ -17,7 +17,19 @@ Included below are graphical summaries of my teaching evaluations, followed by s
 
 <iframe height="420" width="100%" frameborder="no" src="https://robert-mcdonough.shinyapps.io/eval_viz/"> </iframe>
 
-## As instructor of record:
+# Courses:
+
+##University of North Carolina- Chapel Hill
+
+## ECON 101: Introduction to Economic Analysis: Microeconomics
+
+*Fall 2024*
+[Syllabus](https://robmcdonough.com/files/ECON101_f24.pdf)
+<font size="4"><p>
+The goal of this course is to show students how to think like an economist. Through a study of micro and macro economics, students develop the tools of economic reasoning Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis, as well as a foundational understanding of the macroeconomic definitions and forces that drive whole economies. As this course can be used to satisfy the University's general education requirement for “Ways of Knowing”, I strive to leave students with an understanding of how economic thinking can help them personally and with enough economic literacy to understand national conversations about the economy for themselves.
+</p></font>
+
+##University of Oregon
 
 ### EC 201: Introduction to Economic Analysis: Microeconomics
 *Fall 2021*
