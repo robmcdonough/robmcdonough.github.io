@@ -34,7 +34,7 @@ The goal of this course is to show students how to think like an economist. Thro
 *Fall 2024*
 [Syllabus](https://robmcdonough.com/files/ECON111_f24.pdf)
 <font size="4"><p>
-Entrepreneurs need a toolbox to succeed, and economic reasoning is a powerful tool for the motivated entrepreneur. In this course, we focus on fundamental economic subjects (E.g., cost-benefit analysis, the theory of the firm, strategic interaction, risk and uncertainty) in the context of the entrepreneurial mindset. Entrepreneurs also learn better by practicing their skills. To that end, this is a case-based course, focusing on entrepreneurs and businesses who did (or unfortunately did not) use economic principles to create transformational disruptions to existing businesses and markets. By studying choices made by Lyft, Netflix, Partners in Health, Adidas, Tesla, and AIG, students should learn to identify the economic principles that businesses can exploit to create success.
+Entrepreneurs need a toolbox to succeed, and economic reasoning is a powerful tool for the motivated entrepreneur. In this course, we focus on fundamental economic subjects (E.g., cost-benefit analysis, the theory of the firm, strategic interaction, risk and uncertainty) in the context of entrepreneurship. Entrepreneurs also learn better by practicing their skills. To that end, this is a case-based course, focusing on entrepreneurs and businesses who did (or unfortunately did not) use economic principles to create transformational disruptions to existing businesses and markets. By studying choices made by Lyft, Netflix, Partners in Health, Adidas, Tesla, and AIG, students should learn to identify the economic principles that businesses can exploit to create success.
 </p></font>
 
 ## University of Oregon
