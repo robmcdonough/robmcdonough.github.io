@@ -24,7 +24,7 @@ Included below are graphical summaries of my teaching evaluations, followed by s
 ### ECON 101: Introduction to Economic Analysis: Microeconomics
 
 *Fall 2024*
-[Syllabus](https://robmcdonough.com/files/ECON101_f24.pdf)
+[Syllabus](https://robmcdonough.com/files/ECON101_Fall_2024.pdf)
 <font size="4"><p>
 The goal of this course is to show students how to think like an economist. Through a study of micro and macro economics, students develop the tools of economic reasoning—the "apparatus of the mind'' described by Keynes. To build this ability, students consider classic subjects of economic analysis: consumers, firms, and their interactions. Student should leave this course with an understanding of economic fundamentals such as marginal thinking and supply and demand analysis, as well as a foundational understanding of the macroeconomic definitions and forces that drive whole economies. As this course can be used to satisfy the University's general education requirement for “Ways of Knowing”, I strive to leave students with an understanding of how economic thinking can help them personally and with enough economic literacy to understand national conversations about the economy for themselves.
 </p></font>
@@ -32,7 +32,7 @@ The goal of this course is to show students how to think like an economist. Thro
 ### ECON 111: The Economics of Innovation and Entrepreneurship
 
 *Fall 2024*
-[Syllabus](https://robmcdonough.com/files/ECON111_f24.pdf)
+[Syllabus](https://robmcdonough.com/files/ECON111_Fall_2024.pdf)
 <font size="4"><p>
 Entrepreneurs need a toolbox to succeed, and economic reasoning is a powerful tool for the motivated entrepreneur. In this course, we focus on fundamental economic subjects (E.g., cost-benefit analysis, the theory of the firm, strategic interaction, risk and uncertainty) in the context of entrepreneurship. Entrepreneurs also learn better by practicing their skills. To that end, this is a case-based course, focusing on entrepreneurs and businesses who did (or unfortunately did not) use economic principles to create transformational disruptions to existing businesses and markets. By studying choices made by Lyft, Netflix, Partners in Health, Adidas, Tesla, and AIG, students should learn to identify the economic principles that businesses can exploit to create success.
 </p></font>
