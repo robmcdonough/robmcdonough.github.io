@@ -37,6 +37,14 @@ The goal of this course is to show students how to think like an economist. Thro
 Entrepreneurs need a toolbox to succeed, and economic reasoning is a powerful tool for the motivated entrepreneur. In this course, we focus on fundamental economic subjects (E.g., cost-benefit analysis, the theory of the firm, strategic interaction, risk and uncertainty) in the context of entrepreneurship. Entrepreneurs also learn better by practicing their skills. To that end, this is a case-based course, focusing on entrepreneurs and businesses who did (or unfortunately did not) use economic principles to create transformational disruptions to existing businesses and markets. By studying choices made by Lyft, Netflix, Partners in Health, Adidas, Tesla, and AIG, students should learn to identify the economic principles that businesses can exploit to create success.
 </p></font>
 
+
+### ECON 480: Labor Economics
+*Fall 2023*
+[Syllabus](https://robmcdonough.com/files/ECON_480_Fall_2023.pdf)
+<font size="4"><p>
+This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail. Students will learn models to explain wage determination in imperfect markets, the joint labor supply decisions of the household, and the signaling hypothesis in higher education, among others. Historical developments in the U.S. labor market and recent applied research in labor economics are also both discussed where appropriate.
+</p></font>
+
 ## University of Oregon
 
 ### EC 201: Introduction to Economic Analysis: Microeconomics
@@ -52,14 +60,6 @@ This course provides a foundation in economic thinking and analysis. Students co
 [Syllabus (Fall 2022)](https://robmcdonough.com/files/EC350_Fall_2022.pdf)
 <font size="4"><p>
 EC 350 introduces students to the economic theory surrounding labor markets and labor market issues. We first consider utility and profit maximization in depth, in order to derive models of labor supply, demand, and wage determination. Students then explore theories of human capital development, unemployment, and labor market discrimination, among others. These theories are presented alongside key historical developments in the U.S. labor market. Students taking EC 350 are beginning to develop a more comprehensive economic framework with which to analyze issues. I structure this course so that students have opportunity to both hone that analytic ability on more in-depth problems, and learn to communicate their thinking coherently.
-</p></font>
-
-
-### EC 450: Labor Economics
-*Summer 2020 (digital)*
-[Syllabus](https://robmcdonough.com/files/EC450_Summer_2020.pdf)
-<font size="4"><p>
-This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail. Students will learn models to explain wage determination in imperfect markets, the joint labor supply decisions of the household, and the signaling hypothesis in higher education, among others. Historical developments in the U.S. labor market and recent applied research in labor economics are also both discussed where appropriate. 
 </p></font>
 
 ## Selected Student Comments
