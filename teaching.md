@@ -10,7 +10,7 @@ At UNC I teach large capacity sections of Introduction to Economics (ECON 101). 
 
 While at the University of Oregon, I taught courses in introductory microeconomics and labor economics. I received the 2022 Economics Department Graduate Employee Teaching Award. 
 
-I have taught courses ranging in size from 20 to 400 students and have managed teams of up to 30 undergraduate and graduate TAs. \\
+I teach courses ranging from 20 to 400 students and managed teams of up to 30 undergraduate and graduate TAs. \\
 \\
 Included below are graphical summaries of my teaching evaluations, followed by syllabi and course descriptions. Note that quantitative teaching evaluations are no longer used at the University of Oregon, and have been replaced with qualitative evaluations. For a report of all of my course evaluations, please click [here](https://robmcdonough.com/files/reviews_combined.pdf).
 
@@ -40,7 +40,7 @@ Entrepreneurs need a toolbox to succeed, and economic reasoning is a powerful to
 
 ### ECON 480: Labor Economics
 *Fall 2023*
-[Syllabus](https://robmcdonough.com/files/ECON_480_Fall_2023.pdf)
+[Syllabus](https://robmcdonough.com/files/ECON480_Fall_2023.pdf)
 <font size="4"><p>
 This course uses the skills that students have developed in their microeconomic theory courses to consider theories of the labor market in more detail. Students will learn models to explain wage determination in imperfect markets, the joint labor supply decisions of the household, and the signaling hypothesis in higher education, among others. Historical developments in the U.S. labor market and recent applied research in labor economics are also both discussed where appropriate.
 </p></font>
