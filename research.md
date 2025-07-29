@@ -8,7 +8,7 @@ permalink: /research/
 ## Published Work
 
 [Social Transfers and Spatial Distortions](https://robmcdonough.com/files/ColasMcDonough.pdf) (with [Mark Colas](https://sites.google.com/site/markyaucolas/home))\\
-**Journal of Labor Economics** (forthcoming)\\
+**Journal of Labor Economics** January 2025\\
 Previously as: [OIG Working Paper \# 54](https://www.minneapolisfed.org/research/institute-working-papers/social-transfers-and-spatial-distortions)
 <font size="4"><p>
 US social transfer programs vary substantially across states, incentivizing households to locate in states with more generous transfer programs. Further, transfer formulas often decrease in income, therefore rewarding low-income households for living in low-paying cities. We quantify these distortions by combining a spatial equilibrium model with a detailed model of transfer programs in the US. The current system leads to locational inefficiency of 4.38% of total transfer spending. A reform that both harmonizes transfer policies across states and indexes household income to local average earnings reduces this inefficiency by over 85 percent while still preserving the programs’ means-tested nature.
