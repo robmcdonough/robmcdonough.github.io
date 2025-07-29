@@ -8,7 +8,7 @@ permalink: /
 I am a teaching assistant professor at the University of North Carolina at Chapel Hill. I am an applied microeconometrician with broad research interests in labor, education, and crime. I use quasi-experimental and structural methods to identify causal relationships that are valuable to policymakers and the public. I teach undergraduate courses in introductory economics, microeconomics, and labor economics. I received my PhD from the University of Oregon in 2023
 
 ## Recent Work
-[The Wheel of (Over)Time](https://robmcdonough.com/files/KohlheppMcDonough.pdf) (with [Jacob Kohlhepp](https://www.jkohlhepp.com/))\\
+[The Wheel of (Over)Time](https://robmcdonough.com/files/KohlheppMcDonough.pdf) (with [Jacob Kohlhepp](https://www.jkohlhepp.com/)) \\
 July 2025\\
 
 <font size="4"><p>
