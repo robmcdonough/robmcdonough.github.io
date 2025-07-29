@@ -9,7 +9,7 @@ I am a teaching assistant professor at the University of North Carolina at Chape
 
 ## Recent Work
 [The Wheel of (Over)Time](https://robmcdonough.com/files/KohlheppMcDonough.pdf) (with [Jacob Kohlhepp](https://www.jkohlhepp.com/)) \\
-July 2025 \\
+July 2025 
 
 <font size="4"><p>
 In the United States public sector, there are many examples where overtime is allocated informally, and overtime earnings are concentrated among a small number of government workers. Is this government inefficiency driven by insider influence, or an efficient reflection of worker preferences?
